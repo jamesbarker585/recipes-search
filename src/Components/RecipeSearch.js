@@ -25,7 +25,7 @@ export default class RecipeSearch extends Component {
                       <i className="fas fa-search" />
                     </button>
                   </div>
-                </div> 
+                </div> a
               </form>
             </div>
           </div>
